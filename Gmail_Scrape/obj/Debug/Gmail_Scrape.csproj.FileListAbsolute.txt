@@ -1,0 +1,60 @@
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\WebDriver.dll
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\WebDriver.xml
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.csprojAssemblyReference.cache
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.frm_Gmail.resources
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.Properties.Resources.resources
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.csproj.GenerateResource.cache
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.csproj.CoreCompileInputs.cache
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.csproj.CopyComplete
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.AboutBox.resources
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\Gmail Automation.exe.config
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\Gmail Automation.exe
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\Gmail Automation.pdb
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail Automation.exe
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail Automation.pdb
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\Gmail Automation.exe.manifest
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\Gmail Automation.application
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail Automation.exe.manifest
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail Automation.application
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\WebDriver.Support.dll
+C:\Users\zakaria\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\WebDriver.Support.xml
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\Gmail Automation.exe.config
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\Gmail Automation.exe.manifest
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\Gmail Automation.application
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\Gmail Automation.exe
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\Gmail Automation.pdb
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\WebDriver.dll
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\WebDriver.Support.dll
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\WebDriver.xml
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\bin\Debug\WebDriver.Support.xml
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.csprojAssemblyReference.cache
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.AboutBox.resources
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.frm_Gmail.resources
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.Properties.Resources.resources
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.csproj.GenerateResource.cache
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.csproj.CoreCompileInputs.cache
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail Automation.exe.manifest
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail Automation.application
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail_Scrape.csproj.CopyComplete
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail Automation.exe
+D:\Abdessalam\source\repos\Gmail_Scrape\Gmail_Scrape\obj\Debug\Gmail Automation.pdb
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\bin\Debug\Gmail Automation.exe.config
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\bin\Debug\Gmail Automation.exe.manifest
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\bin\Debug\Gmail Automation.application
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\bin\Debug\Gmail Automation.exe
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\bin\Debug\Gmail Automation.pdb
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\bin\Debug\WebDriver.dll
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\bin\Debug\WebDriver.Support.dll
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\bin\Debug\WebDriver.xml
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\bin\Debug\WebDriver.Support.xml
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail_Scrape.csprojAssemblyReference.cache
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail_Scrape.AboutBox.resources
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail_Scrape.frm_Gmail.resources
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail_Scrape.Properties.Resources.resources
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail_Scrape.csproj.GenerateResource.cache
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail_Scrape.csproj.CoreCompileInputs.cache
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail Automation.exe.manifest
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail Automation.application
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail_Scrape.csproj.CopyComplete
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail Automation.exe
+C:\Users\abdes\source\repos\Gmail_Automation\Gmail_Scrape\obj\Debug\Gmail Automation.pdb
