@@ -92,6 +92,9 @@ namespace Gmail_Scrape
                 catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message);
+                    // Close Browser & Driver
+                    driver.Close();
+                    driver.Quit();
                 }
             }
 
